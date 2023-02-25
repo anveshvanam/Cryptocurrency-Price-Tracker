@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #000000;
+  color: #ffffff;
+  min-height: 100vh;
+}

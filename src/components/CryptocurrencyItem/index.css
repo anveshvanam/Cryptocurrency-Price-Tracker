@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.title-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.logo {
+  width: 25px;
+  margin-right: 10px;
+}
